@@ -26,7 +26,7 @@ pub struct Operand {
     pub quantifier: String,
 }
 
-#[derive(Debug, Deserialize)]
+#[derive(Clone, Debug, Deserialize)]
 pub struct Instruction {
     #[serde(default)]
     pub class: String,

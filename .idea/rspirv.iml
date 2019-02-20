@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/codegen/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/codegen/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/codegen/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/codegen/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/dis/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dis/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dis/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/dis/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spirv/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spirv/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spirv/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spirv/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rspirv/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rspirv/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rspirv/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rspirv/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/codegen/target" />
+      <excludeFolder url="file://$MODULE_DIR$/dis/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rspirv/target" />
+      <excludeFolder url="file://$MODULE_DIR$/spirv/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
